@@ -2,6 +2,8 @@
 	"agility": "\u005e",
 	"astromech": "\u0041",
 	"attack-180": "\u003e",
+	"attack-bullseye": "\u003f",
+	"attack-bullseye-top-separated": "\u2019",
 	"attack-frontback": "\u003c",
 	"attack-turret": "\u0024",
 	"attack": "\u0025",
@@ -18,6 +20,8 @@
 	"coordinate": "\u006f",
 	"crew": "\u0057",
 	"crit": "\u0063",
+	"dalan-bankleft": "\u005b",
+	"dalan-bankright": "\u005d",
 	"elite": "\u0045",
 	"empire": "\u0040",
 	"energy": "\u0028",
@@ -81,6 +85,7 @@
 	"rebel": "\u0021",
 	"recover": "\u0076",
 	"reinforce": "\u0069",
+	"reload": "\u003d",
 	"reversebankleft": "\u004a",
 	"reversebankright": "\u004c",
 	"reversestraight": "\u004b",
@@ -133,5 +138,6 @@
 	"turnleft": "\u0034",
 	"turnright": "\u0036",
 	"turret": "\u0055",
-	"unique": "\u0075"
+	"unique": "\u0075",
+	"unique-outline": "\u2022"
 }
